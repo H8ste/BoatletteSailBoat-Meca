@@ -1,6 +1,6 @@
 # BoatletteSailBoat-Meca
 Repository for the mechanical aspects of the sailboat project created by Medialogy Msc students from Aalborg University. 
-Link to the other repositories: [Arduino Repository](https://github.com/H8ste/SailBoatArduinoInterface) & [Pi Repository](https://github.com/H8ste/SailBoatROS) & [Visualisation Repository](https://github.com/H8ste/Boatplatform-visualisation).
+Link to the other repositories: [Arduino Repository](https://github.com/H8ste/SailBoatArduinoInterface) & [ROS Repository](https://github.com/H8ste/SailBoatROS) & [Visualisation Repository](https://github.com/H8ste/Boatplatform-visualisation).
 
 
 ## Hardware used in the project
